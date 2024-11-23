@@ -4,3 +4,4 @@ I've Finished the design and have tested a hand wired version of it on a breadbo
 
 ## Pictures of the prototype
 ![Picture of prototype](https://github.com/CaliOn2/ThinkpadT430_Smartcard2Usb_Pcb/blob/main/Media/Picture_of_prototype.jpg)
+![Picture of Boot from prototype](https://github.com/CaliOn2/ThinkpadT430_Smartcard2Usb_Pcb/blob/main/Media/Booting_from_USB.jpg)
