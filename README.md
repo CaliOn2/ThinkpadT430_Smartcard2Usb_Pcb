@@ -4,7 +4,7 @@ I've Finished the design and have tested a hand wired version of it on a breadbo
 
 *(The usb port is equivalent to a usb-A port and thus lacks support for a lot of the advanced features of a usb-c connection such as voltage modulation)
 
-the connections is fpc 0.5mm to usb-c and pin connections are
+the connections is fpc 6-pin 0.5mm to usb-c and pin connections are
 1. VCC
 2. D-
 3. D+
