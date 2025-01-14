@@ -12,5 +12,5 @@ the connections is fpc 6-pin 0.5mm to usb-c and pin connections are
 
 
 ## Pictures of the prototype
-![Picture of prototype](https://github.com/CaliOn2/ThinkpadT430_Smartcard2Usb_Pcb/blob/main/Media/Picture_of_prototype.jpg)
-![Picture of Boot from prototype](https://github.com/CaliOn2/ThinkpadT430_Smartcard2Usb_Pcb/blob/main/Media/Booting_from_USB.jpg)
+![Picture of Pcb_Next_To_euro](https://github.com/CaliOn2/ThinkpadT430_Smartcard2Usb_Pcb/blob/main/Media/pcb_v_euro.jpg)
+![Picture of Boot Through Prototype](https://github.com/CaliOn2/ThinkpadT430_Smartcard2Usb_Pcb/blob/main/Media/proof_of_concept.jpg)
